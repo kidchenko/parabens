@@ -22,6 +22,12 @@ body {
   text-align: center;
 }
 
+p {
+  font-family: Helvetica, Arial, Sans-Serif;
+  font-size: 1em;
+}
+
+
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 *, *:before, *:after {
   margin:0;
