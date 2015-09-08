@@ -1,6 +1,4 @@
-# &lt;parabens-yoko&gt;
-
-This Web component to give happy birthday to Paula Yoko. 
+This Web component to give happy birthday. 
 
 - Original component page: [braziljs-light](https://github.com/braziljs/braziljs-light)
 - Original lamp page: [Hornebom CodePen](http://codepen.io/Hornebom/pen/clDsr)
